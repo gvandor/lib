@@ -1,1 +1,1 @@
-# lib
+# Template files
