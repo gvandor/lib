@@ -1,1 +1,1 @@
-# Template files
+# Sablonokat tartalmaz ez a repo
